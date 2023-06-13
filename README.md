@@ -4,5 +4,5 @@ En esta pagina se puede encontrar recetas de diferentes categorias, las cuales c
 
 Preview: https://buscadorderecetasweb.netlify.app/
 
-Esta pagina utiliza una API de www.themealdb.com
+Esta pagina utiliza una API de themealdb.com
 
